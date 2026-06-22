@@ -5,7 +5,7 @@
  * Date completed: 6/20/2026
  * Description: This file handles the implementation of all the stack functions
  * it sets the stack index to -1 and uses pointer based pass by reference for pop
- * and peak. 
+ * and peak functions.
  ******************************************************************************/
 
 #include "stack.h"
