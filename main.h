@@ -3,7 +3,7 @@
  * Assignment: Assignment 4 - Simple Classes & Objects
  * File: main.h
  * Date completed: 6/20/2026
- * Description: This is the library for all the includes used in the program. 
+ * Description: This is the hub for all the includes used in the program. 
  * All standard library headers are placed here to keep .cpp files clean.
  ******************************************************************************/
  
