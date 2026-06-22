@@ -3,7 +3,7 @@
  * Assignment: Assignment 4 - Simple Classes & Objects
  * File: stack.h
  * Date completed: 6/20/2026
- * Description: This file defines the blueprint for the stack class ADT while
+ * Description: This file defines the blueprint for the stack class (ADT) while
  * setting up the static array and tracking the top index as private attributes.
  * It then defines stack size and prototypes the push, pop, peak and isEmpty.
  ******************************************************************************/
