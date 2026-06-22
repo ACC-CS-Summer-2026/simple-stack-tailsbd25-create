@@ -76,7 +76,7 @@ int main() {
 
     i = 0;
     while (i < totalRandomOps) {
-        // Generate a pseudo-random choice: 0 = push, 1 = pop, 2 = peek
+        // Generate a pseudo-random choice
         randomChoice = std::rand() % 3;
 
         if (randomChoice == 0) {
